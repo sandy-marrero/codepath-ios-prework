@@ -3,7 +3,7 @@
 
 Submitted by: **Sandy Marrero Hernandez**
 
-**IOS Prework** is an app that... when the button is clicked changes the background color.
+**IOS Prework** is an app that when the button is clicked changes the background color.
 
 Time spent: **1** hours spent in total
 
@@ -24,23 +24,14 @@ Here's a walkthrough of implemented user stories:
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...Gifox
 ## App Brainstorming (Step 4)
+3 favorite apps:
+Apollo for reddit: Lots of customization
+Threads: A really cool UI and feel
+DarkSky: Awesome looking weather app and really polished
 
+I would like to build an app similar to what Apollo and DarkSky did, provide users with the best and more snappy experience. Really polished. A Lemmy client or a Weather app would be the apps I would be interested in developing.
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-## License
-
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+Unfamiliar with Swift but it was an interesting experience getting to work with it for this prework.
